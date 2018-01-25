@@ -1,0 +1,1 @@
+This is a 4-bit overlapping sequence detector
